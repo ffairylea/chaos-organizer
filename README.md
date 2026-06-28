@@ -30,5 +30,6 @@ Paste in any amount of messy, unorganized thoughts. The tool uses the Claude AI 
 
 ## Roadmap
 
-- **Phase 2**: Semantic clustering using embeddings — automatically group ideas by meaning, not just keywords
-- **Phase 3**: Web UI (Flask or Streamlit) so anyone can use it without a terminal
+- ✅ **Phase 1**: Claude API integration — brain dump → structured priorities
+- ✅ **Phase 2**: Semantic clustering using embeddings — groups ideas by meaning automatically
+- 🔜 **Phase 3**: Web UI (Flask or Streamlit) so anyone can use it without a terminal
