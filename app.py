@@ -160,7 +160,7 @@ st.markdown("""
 brain_dump = st.text_area(
     "",
     height=140,
-    placeholder="paste anything — notes, tasks, ideas, thoughts. one per line or comma separated.",
+    placeholder="paste anything: notes, tasks, ideas, thoughts. one per line or comma separated.",
     label_visibility="collapsed"
 )
 
